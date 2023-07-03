@@ -14,7 +14,7 @@
 - VMware Workstation 16
 
 
-## 설정파일
+## 가상 머신에서 환경 설정
 ```bash
 
 rm -rf /etc/sysconfig/network-scripts/ifcfg-ens33
